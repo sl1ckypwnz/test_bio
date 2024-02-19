@@ -1,0 +1,12 @@
+﻿t1 = input ("Этапы развития  - ") # Человек родезийский  - (Homo rhodesiensis)
+t2 = input ("Этапы развития  - ") # Человек из Чепрано - (Homo cepranensis)
+t3 = input ("Этапы развития  - ") # Дманисийский гоминид - (Homo georgicus)
+t4 = input ("Этапы развития  - ") # Денисовский человек - (Homo denisovensis)
+t5 = input ("Этапы развития  - ") # Человек из Диналеди - (Homo naledi)
+t6 = input ("Этапы развития  - ") # Человек-дракон - (Homo longi)
+t7 = input ("Этапы развития  - ") # Человек из Бодо - (Homo bodoensis)
+t8 = input ("Этапы развития  - ") # Человек разумный - (Homo sapiens)
+t9 = input ("Этапы развития  - ") # Человек разумный старейший - (Homo sapiens idaltu)
+t10 = input ("Этапы развития  - ") # Человек разумный разумный - (Homo sapiens sapiens)
+
+print (t1,t2,t3,t4,t5,t6,t7,t8,t9,t10, sep='=>')
